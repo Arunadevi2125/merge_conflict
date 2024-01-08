@@ -1,1 +1,1 @@
-role:none
+role:core
